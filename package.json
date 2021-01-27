@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-busuanzi",
+  "version": "0.0.1",
+  "description": "gitbook page view count plugin using busuanzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": ">=3.1.1"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "pageview",
+    "busuanzi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xnzone/gitbook-plugin-busuanzi.git"
+  },
+  "author": "ixnzone@foxmail.com",
+  "license": "MIT"
+}
